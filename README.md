@@ -2,22 +2,22 @@
 
 > Self-hosted, gamified fitness, nutrition and habit tracker inspired by *The Book of Five Rings*.
 
-**Status: 🚧 in active development (MVP in progress).**
+**Status:  in active development (MVP in progress).**
 
 Gorin turns your real data (workouts, meals, steps and daily habits) into levels, ranks and daily quests. The goal is balance: your rank is only as strong as your weakest pillar.
 
 ## Features
 
-- 🏋️ Custom exercises, routines and workout sessions (gym, cardio, martial arts, anything)
-- 🍽️ Meal logging with calories and macros, manual foods and barcode lookup (Open Food Facts)
-- 👟 Steps tracking (manual on web, phone sensor on the mobile app)
-- 🧠 Custom habits (coding, studying, reading...) grouped in pillars
-- 🎮 XP, levels, daily quests and ranks (E to S) computed from your real data
-- 👥 Multi-user server (first user is the admin), optional rankings
-- 📤 Full data export (JSON / CSV)
-- 🌍 English and Spanish
-- 🤖 *Planned:* bring-your-own-key AI assistant (Gemini, OpenAI, Anthropic, local models)
-- 📱 *Planned:* offline-first Android app with sync
+-  Custom exercises, routines and workout sessions (gym, cardio, martial arts, anything)
+-  Meal logging with calories and macros, manual foods and barcode lookup (Open Food Facts)
+-  Steps tracking (manual on web, phone sensor on the mobile app)
+-  Custom habits (coding, studying, reading...) grouped in pillars
+-  XP, levels, daily quests and ranks (E to S) computed from your real data
+-  Multi-user server (first user is the admin), optional rankings
+-  Full data export (JSON / CSV)
+-  English and Spanish
+-  *Planned:* bring-your-own-key AI assistant (Gemini, OpenAI, Anthropic, local models)
+-  *Planned:* offline-first Android app with sync
 
 ## The five pillars
 
